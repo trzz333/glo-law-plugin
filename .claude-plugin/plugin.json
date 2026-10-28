@@ -1,0 +1,22 @@
+{
+  "name": "glo-law",
+  "displayName": "GLO Law",
+  "description": "Free U.S. legal research for people without a lawyer: court opinions, statutes, state regulations and corrections policies, with the source and coverage on every answer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Eden Bound LLC",
+    "email": "info@glolaw.org",
+    "url": "https://glolaw.org"
+  },
+  "homepage": "https://glolaw.org/case-search/connect",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "case-law",
+    "pro-se",
+    "reentry",
+    "corrections",
+    "regulations"
+  ],
+  "privacyPolicyUrl": "https://glolaw.org/privacy"
+}
