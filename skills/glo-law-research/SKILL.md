@@ -14,7 +14,7 @@ The GLO Law tools are read-only. They search a dated mirror of CourtListener cas
 - Read a case: `cluster` for the case record, `opinion` for full text. Similar wording: `similar`.
 - What a case cites, or who cites it: `citations` (add `with_passages` for the citing court's own sentences). How later courts described it: `parentheticals`.
 - Whether a later court overruled, reversed or vacated it: `treatment`. Every citation in a pasted brief: `brief_check`.
-- A statute or regulation by citation: `statute`. By words: `statute_search` (pass `jurisdiction` or `source`, or results mix states). Opinions citing a federal statute section: `statute_citing`.
+- A statute or regulation by citation: `statute`. By words: `statute_search` (set `jurisdiction` or `source`, or results mix states). Opinions citing a federal statute section: `statute_citing`.
 - Prison or corrections policies by number or keyword: `corrections_policy`. These are internal policies, not law.
 - A court or grievance deadline from a date: `deadline` (Kansas K.S.A. 60-206, KDOC grievances K.A.R. 44-15-101b, FRCP 6, FRAP 26, 28 U.S.C. 2107(a)).
 - What a source covers, its citation forms and counts: `sources`.
