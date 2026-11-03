@@ -1,6 +1,6 @@
 # GLO Law
 
-GLO Law gives Claude a free U.S. legal research library for people working the legal system without a lawyer, and for the families, reentry programs and defenders who help them.
+GLO Law gives Claude a free U.S. legal research library for people working the legal system without a lawyer, and for the people who help them.
 
 This plugin has two parts:
 

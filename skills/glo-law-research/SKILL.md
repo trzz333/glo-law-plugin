@@ -1,6 +1,6 @@
 ---
 name: glo-law-research
-description: Use when the person asks for U.S. legal research with the GLO Law tools — finding or reading a court opinion, checking a citation or brief, looking up a statute or state regulation, searching department of corrections policies, or counting a Kansas or federal court deadline — especially for pro se litigants and people in reentry.
+description: Use when the person asks for U.S. legal research with the GLO Law tools — finding or reading a court opinion, checking a citation or brief, looking up a statute or state regulation, searching department of corrections policies, or counting a Kansas or federal court deadline.
 ---
 
 # Legal research with GLO Law
