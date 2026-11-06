@@ -1,0 +1,11 @@
+{
+  "name": "glo-law",
+  "version": "1.0.1",
+  "description": "Free U.S. legal research: court opinions, statutes, state regulations and corrections policies.",
+  "contextFileName": "skills/glo-law-research/SKILL.md",
+  "mcpServers": {
+    "glo-law": {
+      "httpUrl": "https://mcp.glolaw.org/mcp"
+    }
+  }
+}
