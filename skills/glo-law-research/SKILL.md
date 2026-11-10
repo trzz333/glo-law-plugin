@@ -16,6 +16,7 @@ The GLO Law tools are read-only. They search a dated mirror of CourtListener cas
 - Whether a later court overruled, reversed or vacated it: `treatment`. Every citation in a pasted brief: `brief_check`.
 - A statute or regulation by citation: `statute`. By words: `statute_search` (set `jurisdiction` or `source`, or results mix states). Opinions citing a federal statute section: `statute_citing`.
 - Prison or corrections policies by number or keyword: `corrections_policy`. These are internal policies, not law.
+- Comparing departments' policies on one topic: `corrections_policy` with `topic` (grievance, visitation, mail, restrictive-housing, use-of-force) to find them by title, then each by `state` and `number`. Link https://glolaw.org/case-search/corrections-policies/compare?p=<code>:<number>&p=<code>:<number> (two to four), which marks the wording they share. The `compare_policies` prompt gives the same steps.
 - A court or grievance deadline from a date: `deadline` (Kansas K.S.A. 60-206, KDOC grievances K.A.R. 44-15-101b, FRCP 6, FRAP 26, 28 U.S.C. 2107(a)).
 - What a source covers, its citation forms and counts: `sources`.
 
@@ -26,6 +27,7 @@ The GLO Law tools are read-only. They search a dated mirror of CourtListener cas
 - `treatment` and `brief_check` report only negative history a court stated, in that court's words. No result there means nothing; say so.
 - Quote courts' own words for holdings and parentheticals. Don't paraphrase a quotation as if it were one.
 - Show citations exactly as the court wrote them. An unresolved citation is "not in the current snapshot", not a different case.
+- When comparing policies, quote their wording side by side. Never say one is better, stricter or more lawful, or that one department copied another: shared wording often comes from a common source, such as a federal rule. No topic match is not evidence a department lacks a policy.
 - Say the person should read the source themselves and that this is research, not legal advice.
 
 ## Problems with GLO Law
